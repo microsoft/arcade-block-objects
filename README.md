@@ -1,3 +1,22 @@
+# arcade-block-objects
+
+Adds blocks for JavaScript-style object literals in blocks. Also allows them to be stored and retrieved from sprites.
+
+
+## Generating the extension
+
+This extension is generated using the `genpackage.js` script checked into the root of this repo. To generate the apis and documentation, run it like so:
+
+```
+node ./genpackage.js
+```
+
+Don't edit any of the code manually!
+
+
+#### Metadata (used for search, rendering)
+
+* for PXT/arcade
 
 # Contributing
 

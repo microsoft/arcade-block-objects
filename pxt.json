@@ -1,0 +1,77 @@
+
+{
+    "name": "arcade-block-objects",
+    "version": "1.0.0",
+    "description": "Adds JavaScript like objects to MakeCode Arcade",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "getNum.md",
+        "hasNum.md",
+        "setNum.md",
+        "num.md",
+        "getNumArray.md",
+        "hasNumArray.md",
+        "setNumArray.md",
+        "numArray.md",
+        "getBool.md",
+        "hasBool.md",
+        "setBool.md",
+        "bool.md",
+        "getBoolArray.md",
+        "hasBoolArray.md",
+        "setBoolArray.md",
+        "boolArray.md",
+        "getStr.md",
+        "hasStr.md",
+        "setStr.md",
+        "str.md",
+        "getStrArray.md",
+        "hasStrArray.md",
+        "setStrArray.md",
+        "strArray.md",
+        "getSprite.md",
+        "hasSprite.md",
+        "setSprite.md",
+        "sprite.md",
+        "getSpriteArray.md",
+        "hasSpriteArray.md",
+        "setSpriteArray.md",
+        "spriteArray.md",
+        "getImage.md",
+        "hasImage.md",
+        "setImage.md",
+        "image.md",
+        "getImageArray.md",
+        "hasImageArray.md",
+        "setImageArray.md",
+        "imageArray.md",
+        "getLoc.md",
+        "hasLoc.md",
+        "setLoc.md",
+        "loc.md",
+        "getLocArray.md",
+        "hasLocArray.md",
+        "setLocArray.md",
+        "locArray.md",
+        "getAny.md",
+        "hasAny.md",
+        "setAny.md",
+        "any.md",
+        "api.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.0.16",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
